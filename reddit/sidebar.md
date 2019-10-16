@@ -8,9 +8,26 @@ If you are new to Decred, be sure to read an [introduction](https://decred.org/)
 
 ---
 
-##### Decred Community
+##### Community
 
-###### | [#decred](https://webchat.freenode.net/?channels=decred&uio=d4) | [Slack](https://slack.decred.org/) | [Telegram](https://t.me/Decred) | [GitHub](https://github.com/decred) | [Forum](https://forum.decred.org/) | [Twitter](https://twitter.com/decredproject) | [Facebook](https://www.facebook.com/decredproject/) | [Youtube](https://www.youtube.com/channel/UCJ2bYDaPYHpSmJPh_M5dNSg) | [Discord](https://discord.gg/GJ2GXfz) | [RocketChat](https://rocketchat.decred.org/)
+Bridged chats:
+
+- [Matrix](https://chat.decred.org/) (#general:decred.org)
+- [Discord](https://discord.gg/GJ2GXfz)
+- [Slack](https://slack.decred.org/)
+
+Chats:
+
+- [Telegram](https://t.me/decred)
+- [IRC](https://webchat.freenode.net/#decred) (#decred)
+
+Social media:
+
+- [Twitter](https://twitter.com/decredproject)
+- [Facebook](https://www.facebook.com/decredproject/)
+- [YouTube](https://www.youtube.com/decredchannel)
+- all major platforms are listed at [decred.org/community](https://decred.org/community/)
+- all known groups are listed in the [wiki](https://github.com/decredcommunity/wiki/blob/master/wiki/social-media.md)
 
 ---
 
