@@ -1,4 +1,1 @@
-Decred is a community-directed digital currency designed to be a superior store of value for generations to come.
-Its hybrid PoW+PoS consensus mechanism, transparent proposal and voting system, and continually funded treasury, make it secure, adaptable, and self-sustaining.
-Decred stakeholders collectively determine the policy, development plan, budget, changes to the consensus rules, and they approve the miners’ work.
-Each block reward compensates miners, stakeholders, and the Treasury.
+Decred aims to become the world's first truly decentralized autonomous organization. It is achieving this aim by building a self-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value.
