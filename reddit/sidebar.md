@@ -65,17 +65,13 @@ Core software:
 
 ##### Exchanges 
 
-You can buy or sell DCR at:
-
-- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-DCR)
+- [Binance](https://www.binance.com/)
+- [Bittrex](https://international.bittrex.com/Market/Index?MarketName=BTC-DCR)
 - [Poloniex](https://poloniex.com/exchange#btc_dcr)
-- [Shapeshift](https://shapeshift.io/#/coins) (no account needed)
-- [Changelly](https://changelly.com/) (can buy with fiat; higher fees)
-- [Evercoin](https://evercoin.com/)
-- [LiteBit.EU](https://www.litebit.eu/en/buy/decred) (can buy for EUR)
-- [Bisq](https://market.bisq.io/?market=dcr_btc) (decentralized exchange)
-- [CoinSwitch](https://coinswitch.co)
-- [Chainrift](https://www.chainrift.com/trading?coinpair=DCR/BTC)
+- [Vertbase](https://www.vertbase.com/)
+- [Bisq](https://bisq.network/markets/) (decentralized exchange)
+- full list at [decred.org/exchanges](https://decred.org/exchanges/), including instant and accountless exchangers, OTCs and payment processors
+- [market dashboard](https://explorer.dcrdata.org/market) at dcrdata
 
 ---
 
