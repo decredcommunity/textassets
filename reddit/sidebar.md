@@ -45,31 +45,21 @@ Social media:
 
 ---
 
-##### Downloads
+##### Wallets
 
-Core Software:
+Core software:
 
-- [Command Line Installer](https://decred.org/downloads/#cli)
-- [Web Wallet](https://wallet.decred.org/)
+- [Decrediton](https://decred.org/wallets/#decrediton) - full-featured desktop wallet for Windows, macOS and Linux
+- [Mobile wallets](https://decred.org/wallets/#mobilewallets) - for Android and iOS
+- [Command-line binaries](https://github.com/decred/decred-binaries/releases/latest) - dcrd, dcrwallet, politeiavoter
+- [verify the downloads](https://docs.decred.org/advanced/verifying-binaries/)!
 
-GUI Wallets (bundled with dcrd/dcrwallet):
+3rd party wallets:
 
-- [Decrediton](https://decred.org/downloads/#decrediton) - For Windows, macOS and Linux.
-
-3rd Party Wallets:
-
-- [Exodus](https://www.exodus.io/releases/) - For Windows, macOS and Linux
-
-Officially Supported Miners:
-
-- [gominer](https://decred.org/downloads/#gominer) -
- CUDA/OpenCL miner for AMD/NVIDIA GPUs.
-
-Other Miners:
-
-- [ccminer](https://decred.org/downloads/#ccminer) - CUDA miner for NVIDIA GPUs.
-- [Claymore](https://bitcointalk.org/index.php?topic=1433925.0)
-- [sgminer](https://decred.org/downloads/#sgminer) - OpenCL miner for AMD GPUs.
+- [Exodus](https://www.exodus.io/download/) - for Windows, macOS and Linux
+- [Trust Wallet](https://trustwallet.com/)
+- [Coinomi](https://www.coinomi.com/downloads/)
+- full list at [decred.org/wallets](https://decred.org/wallets/)
 
 ---
 
