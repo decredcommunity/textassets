@@ -88,10 +88,10 @@ Core software:
 
 ##### Related Subreddits
 
-- /r/Politeia
-- /r/DCRtrader
 - /r/CryptoTechnology
 - /r/CryptoCurrency
 - /r/Bitcoin
 - /r/Monero
 - /r/Litecoin
+- /r/DCRtrader
+- /r/Politeia
