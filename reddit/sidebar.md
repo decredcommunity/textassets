@@ -75,9 +75,14 @@ Core software:
 
 ---
 
-##### AMA (Ask Me Anything) Events
+##### Community Content
 
-- see [r/decred wiki](https://www.reddit.com/r/decred/wiki/index#wiki_ama_.28ask_me_anything.29_events) for an overview.
+- [Decred Journal](https://xaur.github.io/decred-news/) - monthly digests
+- [Politeia Digest](https://blockcommons.red/politeia-digest/) - governance activity
+- [Decred in Depth](https://soundcloud.com/decredindepth) - podcast interviews
+- [Event reports](https://github.com/decredcommunity/events)
+- [Issue tracker](https://github.com/decredcommunity/issues/issues) - all kinds of ideas
+- [AMA (Ask Me Anything)](https://www.reddit.com/r/decred/wiki/index#wiki_ama_.28ask_me_anything.29_events) events
 
 ---
 
