@@ -1,4 +1,4 @@
-###Welcome to r/**Decred**
+### Welcome to r/Decred
 
 ---
 
@@ -7,13 +7,14 @@ Decred (Decentralized Credit) is an autonomous cryptocurrency with a system of c
 If you are new to Decred, be sure to read an [introduction](https://decred.org/) or a [technical overview](https://docs.decred.org/research/overview/) if you want to dig deeper.
 
 ---
-#####Decred Community
+
+##### Decred Community
 
 ###### | [#decred](https://webchat.freenode.net/?channels=decred&uio=d4) | [Slack](https://slack.decred.org/) | [Telegram](https://t.me/Decred) | [GitHub](https://github.com/decred) | [Forum](https://forum.decred.org/) | [Twitter](https://twitter.com/decredproject) | [Facebook](https://www.facebook.com/decredproject/) | [Youtube](https://www.youtube.com/channel/UCJ2bYDaPYHpSmJPh_M5dNSg) | [Discord](https://discord.gg/GJ2GXfz) | [RocketChat](https://rocketchat.decred.org/)
 
 ---
 
-#####Resources
+##### Resources
 
 - [Website](https://decred.org) & [Blog]
 (https://blog.decred.org/)
@@ -29,35 +30,35 @@ If you are new to Decred, be sure to read an [introduction](https://decred.org/)
 
 ---
 
-#####Downloads
+##### Downloads
 
 Core Software:
 
-* [Command Line Installer](https://decred.org/downloads/#cli)
-* [Web Wallet](https://wallet.decred.org/)
+- [Command Line Installer](https://decred.org/downloads/#cli)
+- [Web Wallet](https://wallet.decred.org/)
 
 GUI Wallets (bundled with dcrd/dcrwallet):
 
-* [Decrediton](https://decred.org/downloads/#decrediton) - For Windows, macOS and Linux.
+- [Decrediton](https://decred.org/downloads/#decrediton) - For Windows, macOS and Linux.
 
 3rd Party Wallets:
 
-* [Exodus](https://www.exodus.io/releases/) - For Windows, macOS and Linux
+- [Exodus](https://www.exodus.io/releases/) - For Windows, macOS and Linux
 
 Officially Supported Miners:
 
-* [gominer](https://decred.org/downloads/#gominer) -
+- [gominer](https://decred.org/downloads/#gominer) -
  CUDA/OpenCL miner for AMD/NVIDIA GPUs.
 
 Other Miners:
 
-* [ccminer](https://decred.org/downloads/#ccminer) - CUDA miner for NVIDIA GPUs.
-* [Claymore](https://bitcointalk.org/index.php?topic=1433925.0)
-* [sgminer](https://decred.org/downloads/#sgminer) - OpenCL miner for AMD GPUs.
+- [ccminer](https://decred.org/downloads/#ccminer) - CUDA miner for NVIDIA GPUs.
+- [Claymore](https://bitcointalk.org/index.php?topic=1433925.0)
+- [sgminer](https://decred.org/downloads/#sgminer) - OpenCL miner for AMD GPUs.
 
 ---
 
-#####Exchanges 
+##### Exchanges 
 
 You can buy or sell DCR at:
 
@@ -73,13 +74,13 @@ You can buy or sell DCR at:
 
 ---
 
-####**AMA** (Ask Me Anything) Events:
+##### AMA (Ask Me Anything) Events
 
 - see [r/decred wiki](https://www.reddit.com/r/decred/wiki/index#wiki_ama_.28ask_me_anything.29_events) for an overview.
 
 ---
 
-**Related Subreddits:**
+##### Related Subreddits
 
 - /r/Politeia
 - /r/DCRtrader
