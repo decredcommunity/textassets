@@ -1,4 +1,4 @@
-### Welcome to r/Decred
+### Welcome to Decred
 
 ---
 
