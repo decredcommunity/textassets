@@ -6,6 +6,8 @@ Decred aims to become the world's first truly decentralized autonomous organizat
 
 If you are new to Decred, be sure to read an [introduction](https://decred.org/) or a [technical overview](https://docs.decred.org/research/overview/) if you want to dig deeper.
 
+For **support** check #support channel on one of the bridged chats linked below.
+
 ---
 
 ##### Community
