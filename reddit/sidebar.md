@@ -2,7 +2,7 @@
 
 ---
 
-Decred (Decentralized Credit) is an autonomous cryptocurrency with a system of community governance integrated into its blockchain.
+Decred aims to become the world's first truly decentralized autonomous organization. It is achieving this aim by building a self-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value.
 
 If you are new to Decred, be sure to read an [introduction](https://decred.org/) or a [technical overview](https://docs.decred.org/research/overview/) if you want to dig deeper.
 
