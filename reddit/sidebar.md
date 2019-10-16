@@ -33,17 +33,15 @@ Social media:
 
 ##### Resources
 
-- [Website](https://decred.org) & [Blog]
-(https://blog.decred.org/)
-- [Decred Constitution](https://docs.decred.org/getting-started/constitution/) 
-- [Whitepaper/Technical Brief](https://coss.io/documents/white-papers/decred.pdf)
-- [Documentation](https://docs.decred.org/)
 - [Getting Started](https://decred.org/#guide)
-- [Source Code on Github](https://github.com/decred/)   
-- [Network Status](https://stats.decred.org/) & [Block Explorer](https://mainnet.decred.org/)
-- [Voting status](https://voting.decred.org/)
-- [Downloads Overview](https://decred.org/downloads/)
-- [Medium News/Articles/Blogs](https://medium.com/decred)
+- [Website](https://decred.org) and [Blog](https://blog.decred.org/)
+- [Medium](https://medium.com/decred) articles
+- [Documentation](https://docs.decred.org/)
+- [Decred Constitution](https://docs.decred.org/getting-started/constitution/) 
+- [Roadmap](https://decred.org/roadmap/)
+- [Source code](https://github.com/decred/) on GitHub
+- [Block explorer](https://dcrdata.decred.org/)
+- [Consensus Voting dashboard](https://voting.decred.org/)
 
 ---
 
