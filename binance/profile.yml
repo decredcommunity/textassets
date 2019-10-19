@@ -1,0 +1,13 @@
+profile_url: https://info.binance.com/en/currencies/decred
+website: https://www.decred.org/
+source_code: https://github.com/decred/dcrd
+explorers:
+  - https://mainnet.decred.org/
+  - https://explorer.dcrdata.org/
+issue_date: 2016-02-09
+issue_price:
+consensus_protocol: POW/POS
+cryptographic_algorithm: Blake 256
+white_paper: https://resource.bnbstatic.com/books/20190213/1550029830962.pdf
+type: COIN
+description: Decred is a community-directed digital currency designed to be a superior store of value for generations to come. Decred uses a hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) consensus mechanism designed to keep PoW miners’ power in in check and ensure no group can make consensus rule changes without the consent of the community. Development is self-funded, with 10% of the block reward going to the project Decred Treasury and the remaining split between PoW miners (60%) and stakeholders (30%). Decred’s on-chain governance is supplemented by Politeia, a Reddit-style web-based platform where stakeholders vote on proposed changes to Decred’s governance and proposals to spend treasury funds.
