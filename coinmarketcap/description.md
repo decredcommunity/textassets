@@ -1,0 +1,3 @@
+Decred (DCR) is an open-source, Bitcoin fork that places emphasis on development funding, on-chain governance, and consensus mechanisms.
+
+Launched in Feb 2016 by the Bitcoin developers behind btcsuite (an alternative full-node Bitcoin implementation written in Go (golang), Decred successfully orchestrated an on-chain user-activated consensus vote, which is emblematic of the project's emphasis on community-driven stakeholder governance. Other features of the project include a hybrid proof-of-work (PoW) proof-of-stake (PoS) consensus voting system, a public proposal platform, smart contracts, cross-chain atomic swaps, and cross-platform wallets .

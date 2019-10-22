@@ -1,0 +1,19 @@
+profile_url: https://coinmarketcap.com/currencies/decred/
+websites:
+  - https://www.decred.org/
+  - https://proposals.decred.org/
+announcement: https://bitcointalk.org/index.php?topic=1290358.0
+explorers:
+  - https://mainnet.decred.org/
+  - https://explorer.dcrdata.org/
+  - https://stats.decred.org/
+  - https://dcr.tokenview.com/en/
+message_boards:
+  - https://medium.com/decred
+  - https://forum.decred.org/
+chats:
+  - https://t.me/decred
+  - https://discordapp.com/invite/GJ2GXfz
+source_code: https://github.com/decred
+technical_docs: https://docs.decred.org/
+tags: Coin, Mineable
