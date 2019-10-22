@@ -1,0 +1,15 @@
+profile_url: https://cryptoslate.com/coins/decred/
+tags:
+  - Coin
+  - Governance
+  - PoS
+  - PoW
+first_announced: 2015-12-15
+technical_details:
+  blockchain: Own Blockchain
+  consensus: Hybrid PoW/PoS
+  block_time: 5 minutes
+  algorithm: Blake (14r)
+links:
+  whitepaper: https://decred.org/dtb001.pdf
+  explorer: https://mainnet.decred.org/
