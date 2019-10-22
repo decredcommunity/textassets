@@ -1,0 +1,8 @@
+profile_url: https://www.livecoinwatch.com/price/Decred-DCR
+categories: Currency
+coin_type: Coin
+proof: PoW/PoS
+hash: BLAKE256
+inflation: Capped
+mineable: Yes
+premined: No
