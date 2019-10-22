@@ -1,0 +1,12 @@
+profile_url: https://www.exodus.io/decred-wallet/
+links:
+  website: https://decred.org/
+  reddit: https://www.reddit.com/r/decred
+  twitter: https://twitter.com/decredproject
+  official_chat: https://slack.decred.org/
+  whitepaper: https://decred.org/research/buterin2014.pdf
+tags:
+  - Decred
+  - autonomous
+  - Lightning Network
+description: Decred addresses cryptocurrency problems like conflicts of interest, inefficient governance, and chain splits. DCR is self-funded, governed by stakeholders who are incentivized to vote with DCR rewards, and has a clear governance model that prevents long disputes that can lead to splits. DCR also plans to add features like Lightning Network, private transactions, and more.
