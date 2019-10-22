@@ -1,0 +1,25 @@
+profile_url: https://www.coingecko.com/en/coins/decred
+websites:
+  - https://www.decred.org/
+  - https://docs.decred.org/
+  - https://medium.com/decred
+explorers:
+  - https://mainnet.decred.org/
+  - https://explorer.dcrdata.org/
+  - https://stats.decred.org/
+community:
+  - https://reddit.com/r/decred
+  - https://twitter.com/decredproject
+  - https://www.facebook.com/1689453224670612
+  - https://t.me/Decred
+  - https://discordapp.com/invite/GJ2GXfz
+  - https://slack.decred.org/
+  - https://forum.decred.org/
+  - https://bitcointalk.org/index.php?topic=1290358.0
+source_code: https://github.com/decred
+tags: Cryptocurrency
+misc_info:
+  genesis_date: 2016-02-08
+  hashing_algo: Blake-256
+  block_time: 5.0 minutes
+  supply_api: https://mainnet.decred.org/api/status?q=getCoinSupply
