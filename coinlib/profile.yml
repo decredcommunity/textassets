@@ -1,0 +1,21 @@
+profile_url: https://coinlib.io/coin/DCR/Decred
+type: Coin
+algorithm: BLAKE256
+proof: PoW/PoS
+mineable: Yes
+premined: No
+links:
+  - https://www.decred.org/
+  - https://docs.decred.org/
+  - https://medium.com/decred
+  - https://forum.decred.org/
+announcement: https://bitcointalk.org/index.php?topic=1290358.0
+explorers:
+  - https://mainnet.decred.org/
+  - https://explorer.dcrdata.org/
+twitter: https://twitter.com/ecredproject
+reddit: https://reddit.com/r/decred
+github: https://github.com/decred
+telegram: https://t.me/Decred
+youtube: https://www.youtube.com/watch?v=GAMp5V_gG1E
+discord: https://discord.gg/GJ2GXfz
