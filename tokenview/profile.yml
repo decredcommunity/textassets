@@ -1,0 +1,21 @@
+profile_url: https://dcr.tokenview.com/en/
+english_name: DCR/Decred
+chinese_name: Decred
+issue_date: 2016-01-31
+encryption_algorithm: BLAKE256 R14
+coding_lang: Go
+start_time:
+end_time:
+consensus_method: PoW/PoS
+token: No
+mineable: Yes
+official_email:
+official_website: https://decred.org/zh/
+github: https://github.com/decred
+whitepaper: https://decred.org/dtb001.pdf
+bitcointalk:
+twitter: https://twitter.com/decredproject
+facebook: https://www.facebook.com/decredproject/
+youtube:
+blockchain_explorer: https://www.tokenview.com/
+description: Decred (/ˈdi:ˈkred/, /dɪˈkred/, dee-cred) is a blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development. It utilizes a hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) mining system to ensure that a small group cannot dominate the flow of transactions or make changes to Decred without the input of the community. A unit of the currency is called a decred (DCR).
