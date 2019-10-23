@@ -1,0 +1,25 @@
+profile_url:
+  - https://www.youtube.com/decredchannel
+  - https://www.youtube.com/channel/UCJ2bYDaPYHpSmJPh_M5dNSg
+joined: 2017-04-06
+details:
+  location: United States
+links:
+  - text: Decred Homepage
+    url: https://decred.org
+  - text: Decred Wallets/Mining Software
+    url: https://decred.org/downloads/
+  - text: Decred Tutorials and Docs
+    url: https://docs.decred.org/
+  - text: Decred Github
+    url: https://github.com/decred
+  - text: Join Decred Slack Channel
+    url: https://decred.org/community/
+  - text: Subscribe to the Decred Reddit
+    url: https://reddit.com/r/decred
+  - text: Decred Forum
+    url: https://forum.decred.org
+description: |
+  This is the official YouTube channel of Decred which features the Decred Assembly YouTube show, presentations, educational series and more. Decred is an open and progressive cryptocurrency with a system of community-based governance integrated into its blockchain.
+
+  For more information please check out our homepage at: https://decred.org
