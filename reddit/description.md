@@ -1,1 +1,0 @@
-Decred aims to become the world's first truly decentralized autonomous organization. It is achieving this aim by building a self-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value.
