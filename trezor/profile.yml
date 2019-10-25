@@ -1,0 +1,16 @@
+profile_url:
+  - https://trezor.io/coins/
+  - https://wiki.trezor.io/Decred_(DCR)
+devices:
+  - name: Trezor One
+    supported: true
+  - name: Trezor Model T
+    supported: true
+wallets:
+  - name: Exodus
+    url: https://www.exodus.io/
+links:
+  - name: Github
+    url: https://github.com/decred/dcrd
+  - name: Homepage
+    url: https://www.decred.org/
