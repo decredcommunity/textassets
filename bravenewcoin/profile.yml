@@ -1,0 +1,20 @@
+profile_url: https://bravenewcoin.com/data-and-charts/assets/DCR/summary
+summary: Decred is a cryptocurrency, similar to Bitcoin, with a strong focus on community input, open governance and sustainable funding and development. It utilizes a hybrid “proof-of-work” and “proof-of-stake” mining system to protect against attacks by ensuring that small groups cannot dominate the flow of transactions or make changes to Decred without the input of the community. A unit of currency is called a ‘decred’ (DCR).
+bnc_asset_classification: General Cryptographic Asset
+codebase: BTC Suite; Lightning Network
+parent_chain: Native
+whitepaper: https://docs.decred.org/research/overview/
+specifications:
+  avg_block_time: 300
+  consensus_model: Proof-of-Work
+  hashing_algorithm: Blake (14r)
+  transaction_identity: Pseudonymous
+  source_code: https://github.com/decred
+  explorer: https://mainnet.decred.org/
+links:
+  home: https://www.decred.org/
+  notice: https://bitcointalk.org/index.php?topic=1290358.0
+  twitter: https://twitter.com/decredproject
+  facebook: https://www.facebook.com/https://www.facebook.com/decredproject
+  telegram: https://t.me/decred
+  forum: https://forum.decred.org/
