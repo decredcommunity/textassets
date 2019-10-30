@@ -2,7 +2,7 @@
 
 ---
 
-Decred aims to become the world's first truly decentralized autonomous organization. It is achieving this aim by building a self-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value.
+Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
 
 If you are new to Decred, be sure to read an [introduction](https://decred.org/) or a [technical overview](https://docs.decred.org/research/overview/) if you want to dig deeper.
 
