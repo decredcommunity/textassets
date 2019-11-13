@@ -1,8 +1,6 @@
-- Token Type: Native
-- Token Name: Decred
-- Token Symbol: DCR
-- Token Usage: Payments, Vote
+Prior to launch, 8% (1.68 million) DCR of the total 21 million supply was premined and allocated as follows:
 
-### Token Sale
+- 50% was claimed by Decred’s founding organization, Company 0 (36%), and the Decred development team (14%). Company 0 engaged not to trade any of its DCR for 24 months and Decred Development Team allocation was locked for 12 months.
+- 50% was airdropped to anyone who signed up, although some preference was given to project contributors. There was a cap of 5,000 maximum airdrop participants.
 
-Prior to launch, 8% (1.68 million) Decred of the total 21 million supply was premined. 50% (840,000) of the premine was claimed by Decred’s founding organization, Company 0, and the Decred development team. The other 50% of the premine (840,000) was airdropped to anyone who signed up, although some preference was given to project contributors. The remaining 19.32 million Decred will be minted via mining according to Decred’s inflation schedule until the last block reward set for January 2039.
+The remaining 19.32 million Decred will be minted via mining according to Decred’s inflation schedule until the last block reward set for January 2039, as detailed below in the supply curve.

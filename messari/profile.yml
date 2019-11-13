@@ -1,5 +1,25 @@
 profile_url: https://messari.io/asset/decred
+profile_api_url:
+  - https://data.messari.io/api/v1/assets/dcr/profile
+  - https://agora.messari.io/api/portfolio/project/decred/slug
 tagline: On-chain governance currency
-sector: Currency, Onchain Governance
-category: Currency
+sector: Currencies
+category: Payments
 short_description: A Bitcoin codebase fork that re-thinks development funding, on-chain governance, and consensus mechanisms.
+consensus_algorithm: Hybrid PoW & PoS
+roadmap: https://decred.org/roadmap/
+official_links:
+  - name: Whitepaper
+    url: https://docs.decred.org/research/overview/
+  - name: Website
+    url: https://decred.org/
+  - name: Github
+    url: https://github.com/decred
+  - name: Telegram
+    utl: https://t.me/Decred
+  - name: Twitter
+    url: https://twitter.com/decredproject
+  - name: Reddit
+    url: https://www.reddit.com/r/decred
+  - name: Medium
+    url: https://medium.com/decred
