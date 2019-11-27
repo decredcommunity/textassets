@@ -5,7 +5,7 @@ profile_api_url:
 tagline: On-chain governance currency
 sector: Currencies
 category: Payments
-short_description: A Bitcoin codebase fork that re-thinks development funding, on-chain governance, and consensus mechanisms.
+overview: Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
 consensus_algorithm: Hybrid PoW & PoS
 roadmap: https://decred.org/roadmap/
 official_links:

@@ -1,4 +1,4 @@
-Decred forked from the Bitcoin codebase when a proposal for new suite of features to be added to Bitcoin from Company 0 was rejected by the Bitcoin core team. Named btcsuite, these features became the core of the Decred project.
+After a proposal for new suite of features to be added to Bitcoin from Company 0 was rejected by the Bitcoin core team. Named btcsuite, The Company 0 team left the Bitcoin project and created Decred.
 
 Decred’s governance and consensus mechanism relies on a PoW/Proof-of-Stake (PoS) hybrid, which the project regards as a sort of “second authentication factor for consensus” by enabling coin holders to curb potential miner centralization, Decred employs a governance body called the Politeia to guide the project’s direction and fund operations from its treasury.
 
