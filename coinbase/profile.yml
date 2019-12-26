@@ -1,0 +1,7 @@
+profile_url: https://www.coinbase.com/price/decred
+links:
+  - name: Official website
+    url: https://www.decred.org/
+  - name: Whitepaper
+    url: https://docs.decred.org/research/overview/
+description: "Decred is a cryptocurrency that combines two consensus models: proof of work and proof of stake. When new blocks are mined, 60% of the block reward goes to proof of work miners, 30% to proof of stake voters, and 10% to fund development of the protocol. Stakeholders may also vote on changes to the protocol itself."
