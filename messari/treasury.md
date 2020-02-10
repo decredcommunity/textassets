@@ -1,0 +1,5 @@
+Treasury spending decisions are determined through Decred's governance process, a combination of off-chain proposals and discussion, and on-chain voting (see governance sections). However, Spending from the Decred treasury is a manual process that is executed and governed by humans. 
+
+The current process requires contractors to each produce a monthly invoice with a reimbursement report, denominated in USD, that is submitted to the project treasury auditors. If the invoice is approved a payout is made to the contractor-provided address from the treasury funds, using an averaged DCR/USD exchange rate over the month the invoice applies to. These payouts are made by Decred Holdings Group LLC (“DHG” for short), a conventional corporate entity which holds the treasury funds.
+
+Decred is currently working on [decentralizing its treasury spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f), which would ultimately allow treasury spending to occur on-chain through a voting process.

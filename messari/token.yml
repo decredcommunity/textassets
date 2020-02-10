@@ -1,0 +1,7 @@
+block_explorers:
+  - name: Decred Block Explorer
+    link: https://mainnet.decred.org/
+  - name: DCR Farm
+    link: https://explorer.dcr.farm/
+usage: Payments, Vote
+usage_details: DCR is used as a native currency within the Decred network. DCR can be used for peer-to-peer payments and value storage within the Decred network. Through staking DCR users can receive tickets, a non-tradable cryptoasset on the Decred network, to participate in the POS consensus and Decred governance. Each block 5 tickets are randomly selected by a Poisson distribution to validate blocks produced by POW miners, and vote on Decred governance proposals during voting periods.

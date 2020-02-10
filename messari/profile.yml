@@ -2,10 +2,12 @@ profile_url: https://messari.io/asset/decred
 profile_api_url:
   - https://data.messari.io/api/v1/assets/dcr/profile
   - https://agora.messari.io/api/portfolio/project/decred/slug
-tagline: On-chain governance currency
+  - https://agora.messari.io/api/portfolio/project/c13fa8f3-1f3c-4feb-bcaf-aca73207c561/
+  - https://api.messari.io/api/asset/articles/decred
+tagline: a community-directed cryptocurrency with on-chain governance
 sector: Currencies
 category: Payments
-overview: Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
+overview: Decred is a hybrid proof-of-work proof-of-stake (PoW/PoS) cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development. It utilizes its hybrid consensus and on-chain governance systems to ensure that a small group cannot dominate the flow of transactions or make changes to Decred without the input of the community. The project funds its own development from a decentralized treasury.
 consensus_algorithm: Hybrid PoW & PoS
 roadmap: https://decred.org/roadmap/
 official_links:
