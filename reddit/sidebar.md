@@ -16,7 +16,6 @@ Bridged chats:
 
 - [Matrix](https://chat.decred.org/) (#general:decred.org)
 - [Discord](https://discord.gg/GJ2GXfz)
-- [Slack](https://slack.decred.org/)
 
 Chats:
 
