@@ -4,17 +4,15 @@ websites:
   - https://docs.decred.org/
   - https://medium.com/decred
 explorers:
-  - https://mainnet.decred.org/
-  - https://explorer.dcrdata.org/
-  - https://stats.decred.org/
+  - https://dcrdata.decred.org/
+  - https://dcr.tokenview.com/en/
 community:
   - https://reddit.com/r/decred
   - https://twitter.com/decredproject
   - https://www.facebook.com/1689453224670612
   - https://t.me/Decred
-  - https://discordapp.com/invite/GJ2GXfz
-  - https://slack.decred.org/
-  - https://forum.decred.org/
+  - https://chat.decred.org
+  - https://decred.org/community/
   - https://bitcointalk.org/index.php?topic=1290358.0
 source_code: https://github.com/decred
 tags: Cryptocurrency
