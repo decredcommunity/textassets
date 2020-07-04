@@ -4,18 +4,19 @@ websites:
   - https://docs.decred.org/
   - https://medium.com/decred
 explorers:
-  - https://mainnet.decred.org/
-  - https://explorer.dcrdata.org/
-  - https://stats.decred.org/
+  - https://dcrdata.decred.org/
+  - https://dcr.tokenview.com/en/
 community:
-  - https://reddit.com/r/decred
+  - https://www.reddit.com/r/decred/
   - https://twitter.com/decredproject
-  - https://www.facebook.com/1689453224670612
+  - https://www.facebook.com/decredproject
+  - https://chat.decred.org
   - https://t.me/Decred
   - https://discordapp.com/invite/GJ2GXfz
   - https://slack.decred.org/
-  - https://forum.decred.org/
   - https://bitcointalk.org/index.php?topic=1290358.0
+  - https://www.youtube.com/decredchannel
+  - https://decred.org/community/
 source_code: https://github.com/decred
 tags: Cryptocurrency
 misc_info:
@@ -23,3 +24,4 @@ misc_info:
   hashing_algo: Blake-256
   block_time: 5.0 minutes
   supply_api: https://mainnet.decred.org/api/status?q=getCoinSupply
+description: Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
