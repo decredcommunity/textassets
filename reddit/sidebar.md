@@ -2,11 +2,11 @@
 
 ---
 
+For **best support** visit #support chat rooms: [Matrix](https://chat.decred.org/#/room/#support:decred.org), [Discord](https://discord.com/channels/349993843728449537/350007452152102923), [Telegram](https://t.me/DecredSupport)
+
 Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
 
-If you are new to Decred, be sure to read an [introduction](https://decred.org/) or a [technical overview](https://docs.decred.org/research/overview/) if you want to dig deeper.
-
-For **support** check #support channel on one of the bridged chats linked below.
+If you are new to Decred, check the [introduction](https://decred.org/) or the [technical overview](https://docs.decred.org/research/overview/).
 
 ---
 
@@ -14,13 +14,9 @@ For **support** check #support channel on one of the bridged chats linked below.
 
 Bridged chats:
 
-- [Matrix](https://chat.decred.org/) (#general:decred.org)
+- [Matrix](https://chat.decred.org/) - primary platform
 - [Discord](https://discord.gg/GJ2GXfz)
-
-Chats:
-
-- [Telegram](https://t.me/decred)
-- [IRC](https://webchat.freenode.net/#decred) (#decred)
+- [Telegram](https://t.me/decred) (#101 in Matrix)
 
 Social media:
 
@@ -34,12 +30,11 @@ Social media:
 
 ##### Resources
 
-- [Getting Started](https://decred.org/#guide)
+- [Beginner's Guide](https://docs.decred.org/getting-started/beginner-guide/)
 - [Website](https://decred.org) and [Blog](https://blog.decred.org/)
 - [Medium](https://medium.com/decred) articles
 - [Documentation](https://docs.decred.org/)
 - [Decred Constitution](https://docs.decred.org/getting-started/constitution/) 
-- [Roadmap](https://decred.org/roadmap/)
 - [Source code](https://github.com/decred/) on GitHub
 - [Block explorer](https://dcrdata.decred.org/)
 - [Consensus Voting dashboard](https://voting.decred.org/)
@@ -51,9 +46,9 @@ Social media:
 Core software:
 
 - [Decrediton](https://decred.org/wallets/#decrediton) - full-featured desktop wallet for Windows, macOS and Linux
-- [Mobile wallets](https://decred.org/wallets/#mobilewallets) - for Android and iOS
-- [Command-line binaries](https://github.com/decred/decred-binaries/releases/latest) - dcrd, dcrwallet, politeiavoter
-- [verify the downloads](https://docs.decred.org/advanced/verifying-binaries/)!
+- [mobile wallets](https://decred.org/wallets/#mobilewallets) - for Android and iOS
+- [command-line binaries](https://github.com/decred/decred-binaries/releases/latest) - dcrd, dcrwallet, politeiavoter
+- always [verify the downloads](https://docs.decred.org/advanced/verifying-binaries/)!
 
 3rd party wallets:
 
@@ -72,7 +67,7 @@ Core software:
 - [Vertbase](https://www.vertbase.com/)
 - [Bisq](https://bisq.network/markets/) (decentralized exchange)
 - full list at [decred.org/exchanges](https://decred.org/exchanges/), including instant and accountless exchangers, OTCs and payment processors
-- [market dashboard](https://explorer.dcrdata.org/market) at dcrdata
+- handy [markets dashboard](https://explorer.dcrdata.org/market) at dcrdata
 
 ---
 
@@ -80,9 +75,9 @@ Core software:
 
 - [Decred Journal](https://xaur.github.io/decred-news/) - monthly digests
 - [Politeia Digest](https://blockcommons.red/politeia-digest/) - governance activity
-- [Decred in Depth](https://soundcloud.com/decredindepth) - podcast interviews
-- [Event reports](https://github.com/decredcommunity/events)
-- [Issue tracker](https://github.com/decredcommunity/issues/issues) - all kinds of ideas
+- [Decred in Depth](https://decredindepth.libsyn.com/) - podcast interviews
+- [event reports](https://github.com/decredcommunity/events)
+- [issue tracker](https://github.com/decredcommunity/issues/issues) - share and engage with all kinds of ideas
 - [AMA (Ask Me Anything)](https://www.reddit.com/r/decred/wiki/index#wiki_ama_.28ask_me_anything.29_events) events
 
 ---
