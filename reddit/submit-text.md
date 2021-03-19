@@ -1,0 +1,1 @@
+Please use search before asking a question. For best support visit our #support chat rooms in [Matrix](https://chat.decred.org/#/room/#support:decred.org), [Discord](https://discord.com/channels/349993843728449537/350007452152102923), or [Telegram](https://t.me/DecredSupport).
