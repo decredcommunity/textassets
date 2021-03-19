@@ -2,7 +2,7 @@
 
 ---
 
-For **best support** visit #support chat rooms: [Matrix](https://chat.decred.org/#/room/#support:decred.org), [Discord](https://discord.com/channels/349993843728449537/350007452152102923), [Telegram](https://t.me/DecredSupport)
+Please direct all **support** questions to #support chat rooms: [Telegram](https://t.me/DecredSupport), [Discord](https://discord.com/channels/349993843728449537/350007452152102923), or [Matrix](https://chat.decred.org/#/room/#support:decred.org).
 
 Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
 
@@ -16,7 +16,7 @@ Bridged chats:
 
 - [Matrix](https://chat.decred.org/) - primary platform
 - [Discord](https://discord.gg/GJ2GXfz)
-- [Telegram](https://t.me/decred) (#101 in Matrix)
+- Telegram [Decred](https://t.me/decred) (#101 in Matrix), [DecredTrading](https://t.me/DecredTrading)
 
 Social media:
 
@@ -31,7 +31,8 @@ Social media:
 ##### Resources
 
 - [Beginner's Guide](https://docs.decred.org/getting-started/beginner-guide/)
-- [Website](https://decred.org) and [Blog](https://blog.decred.org/)
+- [Website](https://decred.org)
+- [Blog](https://blog.decred.org/)
 - [Medium](https://medium.com/decred) articles
 - [Documentation](https://docs.decred.org/)
 - [Decred Constitution](https://docs.decred.org/getting-started/constitution/) 
@@ -61,23 +62,24 @@ Core software:
 
 ##### Exchanges 
 
+- [DCRDEX](https://dex.decred.org/) - no trading fees, no KYC, next level
 - [Binance](https://www.binance.com/)
 - [Bittrex](https://international.bittrex.com/Market/Index?MarketName=BTC-DCR)
 - [Poloniex](https://poloniex.com/exchange#btc_dcr)
 - [Vertbase](https://www.vertbase.com/)
 - [Bisq](https://bisq.network/markets/) (decentralized exchange)
-- full list at [decred.org/exchanges](https://decred.org/exchanges/), including instant and accountless exchangers, OTCs and payment processors
-- handy [markets dashboard](https://explorer.dcrdata.org/market) at dcrdata
+- [decred.org/exchanges](https://decred.org/exchanges/) - full list including instant and accountless exchangers, OTCs and payment processors
+- [markets dashboard](https://explorer.dcrdata.org/market) - key numbers on one page
 
 ---
 
 ##### Community Content
 
-- [Decred Journal](https://xaur.github.io/decred-news/) - monthly digests
+- [Decred Journal](https://xaur.github.io/decred-news/) - 30 min a month and you know everything
 - [Politeia Digest](https://blockcommons.red/politeia-digest/) - governance activity
 - [Decred in Depth](https://decredindepth.libsyn.com/) - podcast interviews
 - [event reports](https://github.com/decredcommunity/events)
-- [issue tracker](https://github.com/decredcommunity/issues/issues) - share and engage with all kinds of ideas
+- [issue tracker](https://github.com/decredcommunity/issues/issues) - all kinds of ideas, share and comment
 - [AMA (Ask Me Anything)](https://www.reddit.com/r/decred/wiki/index#wiki_ama_.28ask_me_anything.29_events) events
 
 ---
