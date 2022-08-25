@@ -62,14 +62,8 @@ Core software:
 
 ##### Exchanges 
 
-- [DCRDEX](https://dex.decred.org/) - no trading fees, no KYC, next level
-- [Binance](https://www.binance.com/)
-- [Bittrex](https://international.bittrex.com/Market/Index?MarketName=BTC-DCR)
-- [Poloniex](https://poloniex.com/exchange#btc_dcr)
-- [Vertbase](https://www.vertbase.com/)
-- [Bisq](https://bisq.network/markets/) (decentralized exchange)
-- [decred.org/exchanges](https://decred.org/exchanges/) - full list including instant and accountless exchangers, OTCs and payment processors
-- [markets dashboard](https://explorer.dcrdata.org/market) - key numbers on one page
+- [Exchanges](https://decred.org/exchanges/) - a curated list of exchanges and payment processors
+- [Markets dashboard](https://explorer.dcrdata.org/market) - price, volume, and charts for 4 key DCR markets
 
 ---
 
