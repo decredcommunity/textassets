@@ -2,9 +2,9 @@
 
 ---
 
-Please direct all **support** questions to #support chat rooms: [Telegram](https://t.me/DecredSupport), [Discord](https://discord.com/channels/349993843728449537/350007452152102923), or [Matrix](https://chat.decred.org/#/room/#support:decred.org).
+**Please direct all support questions to support chat rooms**: [Telegram](https://t.me/DecredSupport), [Discord](https://discord.com/channels/349993843728449537/350007452152102923), or [Matrix](https://chat.decred.org/#/room/#support:decred.org).
 
-Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
+Decred is Money Evolved. By combining battle tested Proof-of-Work with an innovative take on Proof-of-Stake that places coin holders in charge of shaping the future, Decred is able to adapt to challenges and innovate at a rapid pace. You acquire influence in Decred by putting “skin in the game”. Decred’s security, privacy, scalability, and decentralized treasury empower stakeholders and provides them with the tools needed to enhance their financial sovereignty.
 
 If you are new to Decred, check the [introduction](https://decred.org/) or the [technical overview](https://docs.decred.org/research/overview/).
 
